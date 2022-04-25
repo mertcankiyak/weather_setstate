@@ -1,16 +1,10 @@
 # weather_setstate
 
-A new Flutter project.
+## Ekran Görüntüleri
 
-## Getting Started
+![](https://i.hizliresim.com/6wntec8.png)
 
-This project is a starting point for a Flutter application.
+![](https://i.hizliresim.com/smwqh5t.png)
 
-A few resources to get you started if this is your first Flutter project:
+![](https://i.hizliresim.com/9kfacek.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
